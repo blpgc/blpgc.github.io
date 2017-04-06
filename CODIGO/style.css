@@ -1,8 +1,15 @@
-*{ 
-font-family:'Times','serif';
-} 
-img {border-radius: 100%;
+*
+{
+	font-family:'New York Times Roman';
 }
 
-
-
+h1 {
+	color:OrangeRed;
+}
+background {
+	color:Navy;
+}
+p {
+	font-family:Georgia;
+	color:FireBrick;
+}
