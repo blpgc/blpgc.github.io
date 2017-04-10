@@ -1,7 +1,8 @@
 h1 {
   color:seagreen;
       font-family: 'Gloria Hallelujah', cursive;
-      letter-spacing:0.9em;
+      letter-spacing:0.5em;
+      word-spacing: inherit;
 }
 p {
   letter-spacing: 0.9em;
