@@ -1,7 +1,7 @@
 h1 {
   color:seagreen;
       font-family: 'Gloria Hallelujah', cursive;
-      letter-spacing:0.02em 
+      letter-spacing:0.4em;
 }
 p {
   letter-spacing: 0.9em;
@@ -10,7 +10,7 @@ p {
       font-family: 'Gloria Hallelujah', cursive;
 }
 h3{
-  letter-spacing:0.02em;
+  letter-spacing:0.4em;
   word-spacing:05em;
   color:Seagreen;
       font-family: 'Gloria Hallelujah', cursive;
