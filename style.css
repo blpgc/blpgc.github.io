@@ -8,8 +8,9 @@ h1 {
 p {
   letter-spacing: 0.9em;
   color:Gold;
-     line-height:1.95em;
+     line-height:0.25em;
       font-family: 'Gloria Hallelujah', cursive;
+      word-spacing:0.5em;
 }
 h3 {
   letter-spacing:0.4em;
