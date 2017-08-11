@@ -34,7 +34,8 @@
   <h1>  começo </h1>
   <h3>Vou dar uma dica dessa página, EMPEROR'S CIPHER, quer saber que imperador?
   Mini dica:  Augusto que também conhecido como césinha tinha um pouco de Dinheiro!!</h3>
-  <h4>Se não conseguir adivinhar clica aqui -> </h4>
+  <h4>Se não conseguir adivinhar clica aqui -> </h4><button onclick="window.location.href='http://blpgc.github.io/1parte1dica'">Dica suprema</button>
+</body>
 
 </body>
 </html>
